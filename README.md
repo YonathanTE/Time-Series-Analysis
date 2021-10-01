@@ -1,4 +1,4 @@
-# Time_Series_HW
+# Time_Series Guide
 
 Instructions: Include a Markdown that summarizes your models and findings and include this report in your GitHub repo.
 
