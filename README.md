@@ -1,4 +1,4 @@
-# Time_Series Guide
+# Time Series Analysis Guide
 
 Instructions: Include a Markdown that summarizes your models and findings and include this report in your GitHub repo.
 
